@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d4f7082c.css",
+    "main.js": "/static/js/main.f1eb1862.js",
+    "static/js/453.218c8738.chunk.js": "/static/js/453.218c8738.chunk.js",
+    "static/media/Recruiting.png": "/static/media/Recruiting.faeebb5ecbceddc61777.png",
+    "static/media/NotFound.png": "/static/media/NotFound.67759b4097c5294d1ab9.png",
+    "static/media/team.png": "/static/media/team.917072ad0c0d596e2c70.png",
+    "static/media/portfolioHero.png": "/static/media/portfolioHero.bd16fbc2ddbc062780ac.png",
+    "static/media/BuildWebsite.png": "/static/media/BuildWebsite.2d15641dcb298d3ebdbc.png",
+    "static/media/Sasha.jpg": "/static/media/Sasha.d03a2982978ba6c1ad59.jpg",
+    "static/media/Reiner.jpg": "/static/media/Reiner.964ca1a031ef72005ed3.jpg",
+    "static/media/Management.png": "/static/media/Management.323b1fec36c45ff45ef7.png",
+    "static/media/Collaborative.png": "/static/media/Collaborative.2f9892ac98e9b787a975.png",
+    "static/media/Communicative.png": "/static/media/Communicative.eba258160f4e17106ad0.png",
+    "static/media/Web.png": "/static/media/Web.7d61f8d6aa09b13b47ec.png",
+    "static/media/saif_mahmud.jpg": "/static/media/saif_mahmud.0777e8664b2ab8611453.jpg",
+    "static/media/Design.png": "/static/media/Design.b13455f1f3c66fb37b50.png",
+    "static/media/Favorite.png": "/static/media/Favorite.cb968fa8bc7d31037eb0.png",
+    "static/media/Mobile.png": "/static/media/Mobile.3895db1ec1859459fd4e.png",
+    "index.html": "/index.html",
+    "main.d4f7082c.css.map": "/static/css/main.d4f7082c.css.map",
+    "main.f1eb1862.js.map": "/static/js/main.f1eb1862.js.map",
+    "453.218c8738.chunk.js.map": "/static/js/453.218c8738.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4f7082c.css",
+    "static/js/main.f1eb1862.js"
+  ]
+}
