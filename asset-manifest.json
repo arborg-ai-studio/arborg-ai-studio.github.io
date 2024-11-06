@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c770be15.css",
-    "main.js": "/static/js/main.1b249bc8.js",
+    "main.js": "/static/js/main.2bba878d.js",
     "static/js/845.69f6f56a.chunk.js": "/static/js/845.69f6f56a.chunk.js",
     "static/media/gigachadSalesman.png": "/static/media/gigachadSalesman.a88ea3ee6a12422dbdef.png",
     "static/media/undraw_speech_to_text_re_8mtf_AI.svg": "/static/media/undraw_speech_to_text_re_8mtf_AI.6f535a90fab2904dc44e82aeadbefd06.svg",
@@ -20,11 +20,11 @@
     "static/media/undraw_projections_re_ulc6.svg": "/static/media/undraw_projections_re_ulc6.1c61dac34df3b345a545f2b53d6a6466.svg",
     "index.html": "/index.html",
     "main.c770be15.css.map": "/static/css/main.c770be15.css.map",
-    "main.1b249bc8.js.map": "/static/js/main.1b249bc8.js.map",
+    "main.2bba878d.js.map": "/static/js/main.2bba878d.js.map",
     "845.69f6f56a.chunk.js.map": "/static/js/845.69f6f56a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c770be15.css",
-    "static/js/main.1b249bc8.js"
+    "static/js/main.2bba878d.js"
   ]
 }
